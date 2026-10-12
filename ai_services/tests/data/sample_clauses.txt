@@ -1,0 +1,75 @@
+==============================
+LOW RISK CLAUSES
+==============================
+
+The customer may contact the supplier during normal business hours for technical support related to the purchased products.
+
+This agreement shall become effective on the date it is signed by both parties.
+
+Either party may request a meeting to discuss project progress once every calendar month.
+
+The supplier shall provide user documentation along with the delivered software.
+
+All notices under this agreement shall be sent via registered email to the designated contact person.
+
+The parties agree to cooperate in good faith throughout the duration of this agreement.
+
+The customer shall provide the required information within seven business days.
+
+Each party is responsible for maintaining its own internal records related to this agreement.
+
+The software shall be installed within ten working days after purchase.
+
+Training sessions will be conducted online unless otherwise agreed by both parties.
+
+
+
+==============================
+MEDIUM RISK CLAUSES
+==============================
+
+Either party may terminate this agreement by providing thirty (30) days written notice.
+
+Payment shall be completed within thirty days from the invoice date. Late payments may incur applicable interest charges.
+
+The customer shall obtain written approval before assigning any rights under this agreement.
+
+The supplier may suspend services if payment remains outstanding for more than forty-five days.
+
+This agreement may be renewed automatically unless either party provides notice before the renewal date.
+
+The customer agrees not to disclose confidential project information during the contract period.
+
+Failure to comply with the delivery schedule may result in financial penalties.
+
+The supplier reserves the right to modify service schedules with prior written notice.
+
+Disputes arising under this agreement shall first be resolved through mediation.
+
+The customer shall maintain appropriate cybersecurity measures while using the supplied software.
+
+
+
+==============================
+HIGH RISK CLAUSES
+==============================
+
+The supplier shall indemnify and hold harmless the customer against all claims, damages, liabilities, costs, and expenses arising from this agreement.
+
+The supplier accepts unlimited liability for any direct, indirect, incidental, or consequential damages.
+
+The customer may terminate this agreement immediately without prior notice or compensation.
+
+The supplier waives all legal defenses regarding intellectual property infringement claims.
+
+All disputes shall be resolved exclusively through binding international arbitration without appeal.
+
+The supplier assumes full responsibility for all financial losses incurred by third parties.
+
+The customer may modify the agreement at any time without obtaining supplier consent.
+
+The supplier shall reimburse all litigation costs regardless of the final court judgment.
+
+The supplier grants the customer perpetual, irrevocable, worldwide rights to all developed intellectual property.
+
+Any breach of confidentiality shall result in unlimited financial liability for the supplier.

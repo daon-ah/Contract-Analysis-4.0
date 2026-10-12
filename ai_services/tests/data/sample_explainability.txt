@@ -1,0 +1,23 @@
+========================
+LOW RISK
+========================
+
+The customer may contact the supplier during normal business hours.
+
+========================
+MEDIUM RISK
+========================
+
+Either party may terminate this agreement by providing thirty days written notice.
+
+========================
+HIGH RISK
+========================
+
+The supplier shall indemnify and hold harmless the customer against all claims, liabilities, damages, legal fees, and expenses arising from this agreement.
+
+========================
+VERY HIGH RISK
+========================
+
+The supplier accepts unlimited liability for all direct, indirect, incidental, consequential, and punitive damages, regardless of fault.

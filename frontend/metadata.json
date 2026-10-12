@@ -1,0 +1,6 @@
+{
+  "name": "ContractOS",
+  "description": "AI-powered Contract Intelligence Platform for legal risk detection, plain-English clause analysis, negotiation rewrites, and executive consulting reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

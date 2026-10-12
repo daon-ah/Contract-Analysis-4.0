@@ -1,0 +1,21 @@
+ORIGINAL:
+The supplier shall indemnify and hold harmless the customer against all claims.
+
+MODIFIED:
+The supplier's liability shall be limited to the total fees paid under this agreement.
+
+--------------------------------------------
+
+ORIGINAL:
+Either party may terminate this agreement without notice.
+
+MODIFIED:
+Either party may terminate this agreement by providing thirty days written notice.
+
+--------------------------------------------
+
+ORIGINAL:
+The supplier accepts unlimited liability for all damages.
+
+MODIFIED:
+The supplier shall only be liable for direct damages up to the contract value.
